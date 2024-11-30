@@ -16,7 +16,7 @@ export const ProjectContainer = () => {
         "https://res.cloudinary.com/dgaxmhaj2/image/upload/v1732149122/LectorComercePfolio_vl2mxl.jpg",
       link: "https://react-comerce.vercel.app/",
       description:
-        "Simulación de un e-commerce avanzado utilizando React con Firebase con carrito de compras, detalles de productos, contacto funcional, orden de compra ficticia y control de stock.",
+        "Simulación de un e-commerce avanzado utilizando React con Firebase con carrito de compras, detalles de productos, contacto funcional, orden de compra ficticia y control de stock. Incluye un Back Office para administrar los productos, consultas y ordenes de compra",
       tecnologys: [
         { icon: <FaReact />, color: "text-blue-400", name: "React" },
         {
